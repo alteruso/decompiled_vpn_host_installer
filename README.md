@@ -1,5 +1,5 @@
 <div align="center"><h1><b>VPN HOST Installer</b></h1></div>
-<div align="center"><h4>Декомпилированная из байткода Nulled и Original версии установщика панелей с CDN и Shared-hosting методами (обход БС)</h4></div>
+<div align="center"><h4>Декомпилированная из байткода Original и Nulled версии установщика панелей с CDN и Shared-hosting методами (обход БС)</h4></div>
 
 ----
 
